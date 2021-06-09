@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who is Dev-Joe?
-permalink: /about/
+permalink: /about
 ---
 
 신입 Unity 게임 클라이언트 
